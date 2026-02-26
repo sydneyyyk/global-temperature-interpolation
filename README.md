@@ -14,8 +14,8 @@ This project models global temperature trends using interpolation and regression
 
 ## Interpolation Comparison
 
-![Interpolation Comparison](figures/interpolation_comparison.png)
+![Interpolation Comparison](figures/Interpolation.png)
 
 ## Regression Trend
 
-![Regression Trend](figures/regression_fit.png)
+![Regression Trend](figures/regression.png)
