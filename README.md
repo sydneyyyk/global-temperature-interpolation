@@ -14,8 +14,14 @@ This project models global temperature trends using interpolation and regression
 
 ## Interpolation Comparison
 
-![Interpolation Comparison](figures/interpolation_comparison.png)
+![Interpolation Comparison](figures/Interpolation.png)
 
 ## Regression Trend
 
-![Regression Trend](figures/regression_fit.png)
+![Regression Trend](figures/regression.png)
+
+## Dataset
+
+This project uses the **Global Temperature Data** dataset from Kaggle, containing historical global temperature measurements from 1900 onward.
+
+Source: https://www.kaggle.com/datasets/sachinsarkar/climate-change-global-temperature-data
